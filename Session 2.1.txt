@@ -1,0 +1,10 @@
+Session 2 – Introduction
+Assignment – 1
+
+1. Different methods to call a function in R: Named arguments, default value for arugments, sum, mean, and etc..
+2. True
+3. A) False 
+          B)  False
+          c)  False
+          D)  True
+
